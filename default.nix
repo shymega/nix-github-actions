@@ -7,6 +7,7 @@ let
       "x86_64-linux" = "ubuntu-22.04";
       "x86_64-darwin" = "macos-12";
       "aarch64-darwin" = "macos-14";
+      "aarch64-linux" = "ubuntu-22.04";
     };
 
     # Return a GitHub Actions matrix from a package set shaped like
